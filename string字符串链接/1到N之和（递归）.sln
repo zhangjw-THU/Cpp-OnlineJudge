@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1到N之和（递归）", "1到N之和（递归）.vcxproj", "{75699DB2-40A6-4FEA-B409-4EA8C24F1766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75699DB2-40A6-4FEA-B409-4EA8C24F1766}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75699DB2-40A6-4FEA-B409-4EA8C24F1766}.Debug|Win32.Build.0 = Debug|Win32
+		{75699DB2-40A6-4FEA-B409-4EA8C24F1766}.Release|Win32.ActiveCfg = Release|Win32
+		{75699DB2-40A6-4FEA-B409-4EA8C24F1766}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

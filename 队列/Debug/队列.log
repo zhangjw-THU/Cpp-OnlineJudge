@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/9/5 15:52:33。
+     1>项目“D:\C艹练习\队列\队列.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\c艹练习\队列\源.cpp(174): error C2909: “Link”: 函数模板的显式实例化需要返回类型
+                 d:\c艹练习\队列\源.cpp(183): 参见对正在编译的类 模板 实例化“queue<T>”的引用
+     1>d:\c艹练习\队列\源.cpp(174): error C2146: 语法错误: 缺少“;”(在标识符“queueList”的前面)
+     1>d:\c艹练习\队列\源.cpp(174): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>已完成生成项目“D:\C艹练习\队列\队列.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.63

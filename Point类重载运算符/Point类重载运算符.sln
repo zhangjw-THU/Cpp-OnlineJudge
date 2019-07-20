@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Point类重载运算符", "Point类重载运算符.vcxproj", "{338D3F29-C5E4-4EEC-AD4F-0A24A5EF5530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338D3F29-C5E4-4EEC-AD4F-0A24A5EF5530}.Debug|Win32.ActiveCfg = Debug|Win32
+		{338D3F29-C5E4-4EEC-AD4F-0A24A5EF5530}.Debug|Win32.Build.0 = Debug|Win32
+		{338D3F29-C5E4-4EEC-AD4F-0A24A5EF5530}.Release|Win32.ActiveCfg = Release|Win32
+		{338D3F29-C5E4-4EEC-AD4F-0A24A5EF5530}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
